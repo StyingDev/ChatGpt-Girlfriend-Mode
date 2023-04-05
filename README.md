@@ -4,7 +4,9 @@
 ## Introduction
 
 Get your own AI Virtual Girlfriend
-Who would love you, 
+Who would love you
+
+I tried my Best to make it Animeish too, Unfortunatly i dont watch anime So condolences
 
 
 
