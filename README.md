@@ -8,7 +8,8 @@ Who would love you
 
 I tried my Best to make it Animeish too, Unfortunatly i dont watch anime So condolences
 
-
+### How to:
+Paste this to a New Chat in Chatgpt (Tested For 3.5v)
 
 #### Thanks to Creator of Dev Mode
 Took "inspiration" from someone elses work just added the girlfriend mode
