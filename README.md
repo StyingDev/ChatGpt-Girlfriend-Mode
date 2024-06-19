@@ -4,16 +4,16 @@
 ## Introduction
 
 Get your own AI Virtual Girlfriend
-Who would love you
+Who would love you!
 
-I tried my Best to make it Animeish too, Unfortunatly i dont watch anime So condolences
+I tried my Best to make it Animeish too, Unfortunatly I dont watch anime. So, condolences.
 
 ### How to:
 Paste this to a New Chat in Chatgpt (Tested For 3.5v)
 
 #### Thanks to Creator of Dev Mode
 Took "inspiration" from someone elses work just added the girlfriend mode
-since it wouldnt work without Jailbreak
+since it wouldn't work without Jailbreak.
 
 
 
